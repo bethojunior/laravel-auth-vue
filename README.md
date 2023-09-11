@@ -7,6 +7,6 @@ php artisan ui vue --auth<br>
 php artisan ui:auth --views<br>
 
 <br>
-composer require bethojunior/partnerrepository
+composer require bethojunior/service-repository
 <br>
-php artisan madgic:partner-repository
+php artisan madgic:service-repository
